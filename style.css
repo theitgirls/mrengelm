@@ -1,2 +1,10 @@
 body {color: white; background-color: pink; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 a {color: white}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: pink;
+}
+nav a {color: white;}
+nav {color: white}
+nav a:hover {background-color: lightskyblue}
