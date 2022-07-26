@@ -8,3 +8,10 @@ nav {
 nav a {color: white;}
 nav {color: white}
 nav a:hover {background-color: lightskyblue}
+
+div{
+    border: 1px solid white;
+    margin: 10px;
+    padding: 50px;
+    background-color:pink;
+}
