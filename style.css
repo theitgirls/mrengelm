@@ -2,7 +2,7 @@ body {color: white; background-color: pink; font-family:'Lucida Sans', 'Lucida S
 a {color: white}
 nav {
     padding: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     background-color: pink;
 }
 nav a {color: white;}
